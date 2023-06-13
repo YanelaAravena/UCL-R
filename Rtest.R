@@ -7,7 +7,7 @@
 # Chapter 5: Modularizing' a repetitive cleaning task 
 # Chapter 6: Quickstart Table 1 & Extracting values for table-building 
 #
-#
+# ggg
 
 
 
@@ -20,3 +20,5 @@ library(tidyverse, tidytuesdayR, dplyr)
 
 # Set working directory
 setwd("/Users/admin/Documents/7. UCL E:S:PA/R Study Group")
+
+##test3 - adding changes
